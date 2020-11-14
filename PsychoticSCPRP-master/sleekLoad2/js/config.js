@@ -124,14 +124,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "Damned 100AE - Treyarch.ogg", name: "Damned 100AE - Treyarch"},
-	{ogg: "115 - Treyarch.ogg", name: "115 - Treyarch"},
-	{ogg: "Beauty Of Annihilation - Treyarch.ogg", name: "Beauty Of Annihilation - Treyarch"},
-	{ogg: "The One - Treyarch.ogg", name: "The One - Treyarch"},
-	{ogg: "Avenged Sevenfold - Shepherd of Fire.ogg", name: "Avenged Sevenfold - Shepherd of Fire"},
-	{ogg: "Black Ops 2 - Multiplayer Theme.ogg", name: "Black Ops 2 Multiplayer Theme"},
-	{ogg: "Courage the Cowardly Dog - Crisis Theme.ogg", name: "Courage the Cowardly Dog - Crisis Theme"},
-	{ogg: "Black Ops 2 - Main Theme.ogg", name: "Black Ops 2 Main Theme"},
+	{ogg: "SCP Unity Main Theme.ogg", name: "SCP Unity Main Theme"},
 ];
 
 // Random music order?
@@ -140,7 +133,7 @@ var l_musicRandom = true;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 25;
+var l_musicVolume = 17;
 
 // Enable custom messages?
 // 'true' or 'false'
